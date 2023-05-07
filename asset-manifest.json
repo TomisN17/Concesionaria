@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Concesionaria/static/css/main.622b1090.css",
-    "main.js": "/Concesionaria/static/js/main.c0c4aeba.js",
+    "main.js": "/Concesionaria/static/js/main.39bef7a0.js",
     "static/js/787.2ac7e69e.chunk.js": "/Concesionaria/static/js/787.2ac7e69e.chunk.js",
     "static/media/Nissan Skyline R34.jpg": "/Concesionaria/static/media/Nissan Skyline R34.31ed580b0c7aa6a9981e.jpg",
     "static/media/subaru WRX.jpg": "/Concesionaria/static/media/subaru WRX.522c47bb7d87081cb8ad.jpg",
@@ -10,11 +10,11 @@
     "static/media/Perfil.jpeg": "/Concesionaria/static/media/Perfil.cad6c3a02053f43aacb0.jpeg",
     "index.html": "/Concesionaria/index.html",
     "main.622b1090.css.map": "/Concesionaria/static/css/main.622b1090.css.map",
-    "main.c0c4aeba.js.map": "/Concesionaria/static/js/main.c0c4aeba.js.map",
+    "main.39bef7a0.js.map": "/Concesionaria/static/js/main.39bef7a0.js.map",
     "787.2ac7e69e.chunk.js.map": "/Concesionaria/static/js/787.2ac7e69e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.622b1090.css",
-    "static/js/main.c0c4aeba.js"
+    "static/js/main.39bef7a0.js"
   ]
 }
