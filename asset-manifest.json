@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Concesionaria/static/css/main.70b4990f.css",
-    "main.js": "/Concesionaria/static/js/main.d00d1544.js",
+    "main.css": "/Concesionaria/static/css/main.622b1090.css",
+    "main.js": "/Concesionaria/static/js/main.b1a5bdaa.js",
     "static/js/787.2ac7e69e.chunk.js": "/Concesionaria/static/js/787.2ac7e69e.chunk.js",
     "static/media/Nissan Skyline R34.jpg": "/Concesionaria/static/media/Nissan Skyline R34.31ed580b0c7aa6a9981e.jpg",
     "static/media/subaru WRX.jpg": "/Concesionaria/static/media/subaru WRX.522c47bb7d87081cb8ad.jpg",
@@ -9,12 +9,12 @@
     "static/media/Mitsubishi evolution 10.jpg": "/Concesionaria/static/media/Mitsubishi evolution 10.01abef038418c061f202.jpg",
     "static/media/Perfil.jpeg": "/Concesionaria/static/media/Perfil.cad6c3a02053f43aacb0.jpeg",
     "index.html": "/Concesionaria/index.html",
-    "main.70b4990f.css.map": "/Concesionaria/static/css/main.70b4990f.css.map",
-    "main.d00d1544.js.map": "/Concesionaria/static/js/main.d00d1544.js.map",
+    "main.622b1090.css.map": "/Concesionaria/static/css/main.622b1090.css.map",
+    "main.b1a5bdaa.js.map": "/Concesionaria/static/js/main.b1a5bdaa.js.map",
     "787.2ac7e69e.chunk.js.map": "/Concesionaria/static/js/787.2ac7e69e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70b4990f.css",
-    "static/js/main.d00d1544.js"
+    "static/css/main.622b1090.css",
+    "static/js/main.b1a5bdaa.js"
   ]
 }
